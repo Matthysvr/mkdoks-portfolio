@@ -31,10 +31,10 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/matthysvr
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/matthysvr/
+    - icon: fontawesome/brands/github
+      link: https://github.com/matthysvr
   analytics:
     provider: google
     property: G-807JJ3EX90
@@ -56,5 +56,23 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+nav: 
+  - Home: index.md
+  - Undergrad: 
+    - undergrad/index.md
+    - File Monitor: undergrad/file-monitor.md
+    - Graphical Linear Programming Solver: undergrad/graphical-solver.md
+    - Natural Distribution Sim: undergrad/nds.md
+    - Online Weather App: undergrad/online-weather-app.md
+    - Plane Sim - Shortest Route: undergrad/plane-sim-shortest-route.md
+    - SEN381 Project: undergrad/sen381-project.md
+  - Postgrad: postgrad/index.md
+  - Mini Projects / Ideas:
+    - mini-projects/index.md
+    - Python:
+      - Conway Game of Life: mini-projects/cgl.md
+    - C#:
+      - Critical Path Calculator: mini-projects/critical-path-calculator.md
+      - Website (WHOIS) Reporter: mini-projects/website-reporter.md
 copyright: |
-  &copy; 2023 <a href="https://www.matthysvr.com/"  target="_blank" rel="noopener">Matthys van Rooyen</a>
+  &copy; 2023 <a href="https://www.matthysvr.com/" target="_blank" rel="noopener">Matthys van Rooyen</a>

@@ -1,6 +1,4 @@
-# CGL
-## Conway's Game of Life
-
+# Conway's Game of Life
 
 ``` py title="Load Packages"
 import random
