@@ -35,6 +35,9 @@ extra:
       link: https://github.com/matthysvr
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/matthysvr/
+  analytics:
+    provider: google
+    property: G-807JJ3EX90
 
 markdown_extensions:
   - pymdownx.highlight:
