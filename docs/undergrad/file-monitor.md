@@ -12,3 +12,8 @@ Some of the prominent features includes:
 - The ability to select starting and stopping times
 - A popup notification system to alert you when a change is made
 
+# Images
+<figure markdown>
+  ![UI in action](/resources/images/file-monitor/UI in action.png){ width="900" }
+  <figcaption>UI in action</figcaption>
+</figure>

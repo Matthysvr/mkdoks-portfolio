@@ -55,6 +55,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
 
 nav: 
   - Home: index.md
@@ -64,7 +65,7 @@ nav:
     - Graphical Linear Programming Solver: undergrad/graphical-solver.md
     - Natural Distribution Sim: undergrad/nds.md
     - Online Weather App: undergrad/online-weather-app.md
-    - Plane Sim - Shortest Route: undergrad/plane-sim-shortest-route.md
+    - Plane Sim - Shortest Route: undergrad/plane-sim.md
     - SEN381 Project: undergrad/sen381-project.md
   - Postgrad: postgrad/index.md
   - Mini Projects / Ideas:
