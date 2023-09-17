@@ -43,6 +43,9 @@ plugins:
   - mkdocs-jupyter:
       ignore_h1_titles: True
       show_input: True
+      remove_tag_config:
+        remove_input_tags:
+          - hide_code
 
 markdown_extensions:
   - pymdownx.highlight:
