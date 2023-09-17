@@ -39,6 +39,11 @@ extra:
     provider: google
     property: G-807JJ3EX90
 
+plugins:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
+      show_input: True
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -67,7 +72,11 @@ nav:
     - Online Weather App: undergrad/online-weather-app.md
     - Plane Sim - Shortest Route: undergrad/plane-sim.md
     - SEN381 Project: undergrad/sen381-project.md
-  - Postgrad: postgrad/index.md
+  - Postgrad: 
+    - postgrad/index.md
+    - Data programming in Python (DSM020):
+      - Coursework 1:  postgrad/DSM020/CW1.ipynb
+      - Coursework 2:  postgrad/DSM020/CW2.ipynb
   - Mini Projects / Ideas:
     - mini-projects/index.md
     - Python:
@@ -75,5 +84,6 @@ nav:
     - C#:
       - Critical Path Calculator: mini-projects/critical-path-calculator.md
       - Website (WHOIS) Reporter: mini-projects/website-reporter.md
+
 copyright: |
   &copy; 2023 <a href="https://www.matthysvr.com/" target="_blank" rel="noopener">Matthys van Rooyen</a>
