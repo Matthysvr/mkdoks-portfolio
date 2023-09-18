@@ -46,6 +46,7 @@ plugins:
       remove_tag_config:
         remove_input_tags:
           - hide_code
+  - glightbox
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -77,9 +78,16 @@ nav:
     - SEN381 Project: undergrad/sen381-project.md
   - Postgrad: 
     - postgrad/index.md
-    - Data programming in Python (DSM020):
-      - Coursework 1:  postgrad/DSM020/CW1.ipynb
-      - Coursework 2:  postgrad/DSM020/CW2.ipynb
+    - Data Programming in Python:
+      - Coursework 1:  postgrad/Data Programming in Python/CW1.ipynb
+      - Coursework 2:  postgrad/Data Programming in Python/CW2.ipynb
+    - Machine Learning:
+      - Coursework 1:  postgrad/Machine Learning/CW1.ipynb
+      - Coursework 2:  postgrad/Machine Learning/CW2.ipynb
+    - Statistics and Statistical Data Mining:
+      - Coursework:  postgrad/Statistics and Statistical Data Mining/CW1.ipynb
+    - Mathematics for Data Science:
+      - Coursework: postgrad/Mathematics for Data Science/CW1.md
   - Mini Projects / Ideas:
     - mini-projects/index.md
     - Python:
