@@ -89,6 +89,17 @@ nav:
       - Coursework:  postgrad/Statistics and Statistical Data Mining/CW1.ipynb
     - Mathematics for Data Science:
       - Coursework: postgrad/Mathematics for Data Science/CW1.md
+    - Artificial Intelligence:
+      - Coursework: postgrad/Artificial Intelligence/Coursework.md
+    - Neural Networks:
+      - Coursework 1: postgrad/Neural Networks/CW1.ipynb
+    - Natural Language Processing:
+      - Coursework: postgrad/Natural Language Processing/CW1.ipynb
+    - Social Media and Network Science:
+      - Social Media Coursework 1: postgrad/Social Media and Network Science/Social Media Coursework 1.md
+      - Network Science Coursework 1: postgrad/Social Media and Network Science/Network Science Coursework 1.md
+    - Data Science Research Topics:
+      - Literature Review: postgrad/Data Science Research Topics/Literature Review.md
   - Mini Projects / Ideas:
     - mini-projects/index.md
     - Python:
