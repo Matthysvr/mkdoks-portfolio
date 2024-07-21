@@ -8,16 +8,16 @@ This project is focused on developing a program that simulates the flight path o
 
 # Images
 <figure markdown>
-  ![Setup](/resources/images/plane-sim/Setup.png){ width="900" }
+  ![Setup](../resources/images/plane-sim/Setup.png){ width="900" }
   <figcaption>Setup</figcaption>
 </figure>
 
 <figure markdown>
-  ![Calculation](/resources/images/plane-sim/Shortest Route.png){ width="900" }
+  ![Calculation](../resources/images/plane-sim/Shortest Route.png){ width="900" }
   <figcaption>Calculation</figcaption>
 </figure>
 
 <figure markdown>
-  ![Path](/resources/images/plane-sim/Rep.png){ width="300" }
+  ![Path](../resources/images/plane-sim/Rep.png){ width="300" }
   <figcaption>Path</figcaption>
 </figure>

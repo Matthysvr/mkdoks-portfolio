@@ -18,36 +18,36 @@ The process followed to reach the final product included the drawing of UML, Dat
 
 # Images
 <figure markdown>
-  ![Login](/resources/images/sen381-project/Login.png){ width="300" }
+  ![Login](../resources/images/sen381-project/Login.png){ width="300" }
   <figcaption>Login</figcaption>
 </figure>
 
 <figure markdown>
-  ![Hub](/resources/images/sen381-project/Hub.png){ width="300" }
+  ![Hub](../resources/images/sen381-project/Hub.png){ width="300" }
   <figcaption>Hub</figcaption>
 </figure>
 
 <figure markdown>
-  ![Human Resources](/resources/images/sen381-project/HR.png){ width="600" }
+  ![Human Resources](../resources/images/sen381-project/HR.png){ width="600" }
   <figcaption>Human Resources</figcaption>
 </figure>
 
 <figure markdown>
-  ![Client Management](/resources/images/sen381-project/ClientManagement.png){ width="600" }
+  ![Client Management](../resources/images/sen381-project/ClientManagement.png){ width="600" }
   <figcaption>Client Management</figcaption>
 </figure>
 
 <figure markdown>
-  ![Job Management](/resources/images/sen381-project/JobManagement.png){ width="600" }
+  ![Job Management](../resources/images/sen381-project/JobManagement.png){ width="600" }
   <figcaption>Job Management</figcaption>
 </figure>
 
 <figure markdown>
-  ![Tech Support](/resources/images/sen381-project/TechSupport.png){ width="600" }
+  ![Tech Support](../resources/images/sen381-project/TechSupport.png){ width="600" }
   <figcaption>Tech Support</figcaption>
 </figure>
 
 <figure markdown>
-  ![System Management](/resources/images/sen381-project/SystemManagement.png){ width="600" }
+  ![System Management](../resources/images/sen381-project/SystemManagement.png){ width="600" }
   <figcaption>System Management</figcaption>
 </figure>

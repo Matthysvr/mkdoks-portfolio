@@ -62,9 +62,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
   - md_in_html
 
 nav: 
@@ -93,13 +90,18 @@ nav:
       - Coursework: postgrad/Artificial Intelligence/Coursework.md
     - Neural Networks:
       - Coursework 1: postgrad/Neural Networks/CW1.ipynb
+      - Coursework 2: postgrad/Neural Networks/CW2.ipynb
     - Natural Language Processing:
       - Coursework: postgrad/Natural Language Processing/CW1.ipynb
     - Social Media and Network Science:
       - Social Media Coursework 1: postgrad/Social Media and Network Science/Social Media Coursework 1.md
       - Network Science Coursework 1: postgrad/Social Media and Network Science/Network Science Coursework 1.md
+      - Social Media and Network Science Coursework 2: postgrad/Social Media and Network Science/Social Media and Network Science Coursework 2.md
     - Data Science Research Topics:
       - Literature Review: postgrad/Data Science Research Topics/Literature Review.md
+      - Research Project Proposal: postgrad/Data Science Research Topics/Research Project Proposal.md
+    - Big Data Analysis:
+      - Coursework 1: postgrad/Big Data Analysis/CW1.ipynb
   - Mini Projects / Ideas:
     - mini-projects/index.md
     - Python:
@@ -107,6 +109,8 @@ nav:
     - C#:
       - Critical Path Calculator: mini-projects/critical-path-calculator.md
       - Website (WHOIS) Reporter: mini-projects/website-reporter.md
+    - Rust:
+      - Machine Learning Library: mini-projects/rust_ml.md
 
 copyright: |
-  &copy; 2023 <a href="https://www.matthysvr.com/" target="_blank" rel="noopener">Matthys van Rooyen</a>
+  &copy; 2023 - 2024 <a href="https://www.matthysvr.com/" target="_blank" rel="noopener">Matthys van Rooyen</a>
